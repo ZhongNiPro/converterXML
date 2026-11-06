@@ -1,0 +1,15 @@
+D:\XmlConverter\XmlConverter.Database\bin\Debug\net10.0\XmlConverter.Database.deps.json
+D:\XmlConverter\XmlConverter.Database\bin\Debug\net10.0\XmlConverter.Database.dll
+D:\XmlConverter\XmlConverter.Database\bin\Debug\net10.0\XmlConverter.Database.pdb
+D:\XmlConverter\XmlConverter.Database\bin\Debug\net10.0\XmlConverter.Data.dll
+D:\XmlConverter\XmlConverter.Database\bin\Debug\net10.0\XmlConverter.Data.pdb
+D:\XmlConverter\XmlConverter.Database\obj\Debug\net10.0\XmlConverter.Database.csproj.AssemblyReference.cache
+D:\XmlConverter\XmlConverter.Database\obj\Debug\net10.0\XmlConverter.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\XmlConverter\XmlConverter.Database\obj\Debug\net10.0\XmlConverter.Database.AssemblyInfoInputs.cache
+D:\XmlConverter\XmlConverter.Database\obj\Debug\net10.0\XmlConverter.Database.AssemblyInfo.cs
+D:\XmlConverter\XmlConverter.Database\obj\Debug\net10.0\XmlConverter.Database.csproj.CoreCompileInputs.cache
+D:\XmlConverter\XmlConverter.Database\obj\Debug\net10.0\XmlConve.04C0C4C9.Up2Date
+D:\XmlConverter\XmlConverter.Database\obj\Debug\net10.0\XmlConverter.Database.dll
+D:\XmlConverter\XmlConverter.Database\obj\Debug\net10.0\refint\XmlConverter.Database.dll
+D:\XmlConverter\XmlConverter.Database\obj\Debug\net10.0\XmlConverter.Database.pdb
+D:\XmlConverter\XmlConverter.Database\obj\Debug\net10.0\ref\XmlConverter.Database.dll

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../XmlConverter.Business/XmlConverter.Business.csproj" />
+  <Project Path="../XmlConverter.Data/XmlConverter.Data.csproj" />
+  <Project Path="../XmlConverter.Database/XmlConverter.Database.csproj" />
+  <Project Path="XmlConverter.UI.csproj" />
+</Solution>

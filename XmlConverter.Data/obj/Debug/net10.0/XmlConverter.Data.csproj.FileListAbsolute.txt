@@ -1,0 +1,12 @@
+D:\XmlConverter\XmlConverter.Data\bin\Debug\net10.0\XmlConverter.Data.deps.json
+D:\XmlConverter\XmlConverter.Data\bin\Debug\net10.0\XmlConverter.Data.dll
+D:\XmlConverter\XmlConverter.Data\bin\Debug\net10.0\XmlConverter.Data.pdb
+D:\XmlConverter\XmlConverter.Data\obj\Debug\net10.0\XmlConverter.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\XmlConverter\XmlConverter.Data\obj\Debug\net10.0\XmlConverter.Data.AssemblyInfoInputs.cache
+D:\XmlConverter\XmlConverter.Data\obj\Debug\net10.0\XmlConverter.Data.AssemblyInfo.cs
+D:\XmlConverter\XmlConverter.Data\obj\Debug\net10.0\XmlConverter.Data.csproj.CoreCompileInputs.cache
+D:\XmlConverter\XmlConverter.Data\obj\Debug\net10.0\XmlConverter.Data.dll
+D:\XmlConverter\XmlConverter.Data\obj\Debug\net10.0\refint\XmlConverter.Data.dll
+D:\XmlConverter\XmlConverter.Data\obj\Debug\net10.0\XmlConverter.Data.pdb
+D:\XmlConverter\XmlConverter.Data\obj\Debug\net10.0\ref\XmlConverter.Data.dll
+D:\XmlConverter\XmlConverter.Data\obj\Debug\net10.0\XmlConve.1E08DFFD.Up2Date
